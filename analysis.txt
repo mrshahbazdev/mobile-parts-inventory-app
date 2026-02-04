@@ -1,0 +1,4 @@
+Analyzing app...
+
+   info • 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre • lib/screens/add_item_screen.dart:68:17 • deprecated_member_use
+warning • Unused import: 'package:solar_billing/models/bill_model.dart' • lib/screens/bill_history_screen.dart:4:8 • unused_import
