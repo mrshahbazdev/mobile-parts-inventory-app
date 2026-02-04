@@ -1,6 +1,10 @@
 # Mobile Parts Inventory App
 
-A comprehensive Flutter application for managing mobile parts inventory, sales, and backups.
+**Free Mobile Parts Inventory Management System | Flutter Android App with Offline Database**
+
+A comprehensive, offline-first Flutter application for mobile phone repair shops and parts dealers to efficiently manage inventory, track stock levels, organize parts by categories, and backup data. Built with SQLite for robust offline performance on Android and Windows.
+
+**Keywords**: Mobile parts inventory, phone repair shop app, inventory management system, Flutter inventory app, offline inventory tracker, mobile parts database, stock management, Android inventory app, parts catalog, repair shop software
 
 ## 📱 Download APK
 **Can't wait to try it?**
